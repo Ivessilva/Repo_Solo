@@ -23,5 +23,17 @@ Nesse momento já é para aparecer a pasta com o nome do projeto em questão
        -git status ( para visualizar se está tudo ok)
        -cd+ nome do projeto (para acessar o repositório)
 
-  
+  PARTE 3 - Inserindo uma pasta teste 
+      
+      Na pasta do PC, crie uma exemplo de arquivo com o relevante desejo
+      de testar, enseguida para visualizar a disponibilidade dessa pasta basta ir no 
+      git bash e aplicar o comando...
+       - git status ( vais constar a presença do arquivo)
+       - git add . (para adiciona apenas um arquivo 
+       - git add -A ( para adicionar todos os arquivos)
+       - git status (para verificar se o arq subiu)
+       - git commit -m " Inclusão do meu primeiro repositório (Projeto Dio)"
+       - git status ( para verificar se está tudo ok)
+       - git push origin main (comando para enviar a pasta)
+        
      
