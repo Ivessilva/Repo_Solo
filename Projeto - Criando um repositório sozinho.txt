@@ -1,0 +1,27 @@
+                         PROJETO REPO_SOLO
+
+Para chegar até essa parte foi seguido os comandos ensinado no video abaixo, com as descrições
+mencionadas.
+
+-Acessar o github
+  -criar novo
+   -Novo repositório
+    -Nomeação do repositório
+     -Descrição do projeto em si
+      - Classificação publica
+       -Fleg na opção README
+  **CRIAR REPOSITÓRIO** 
+PARTE 2- Link com a maquina fisica
+    
+   -Copiar código
+    - Criar ou selecionar pasta de preferencia e abrir o git bash
+    -inserir o comando <git clone segudo do código copiado
+    -ENTER
+Nesse momento já é para aparecer a pasta com o nome do projeto em questão
+
+     Insira o comando:
+       -git status ( para visualizar se está tudo ok)
+       -cd+ nome do projeto (para acessar o repositório)
+
+  
+     
